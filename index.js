@@ -25,11 +25,11 @@ function add1G(){
 }
 
 function add2G(){
-    markGuest += 1
+    markGuest += 2
     guestEL.textContent = markGuest
 }
 
 function add3G(){
-    markGuest += 1
+    markGuest += 3
     guestEL.textContent = markGuest
 }
